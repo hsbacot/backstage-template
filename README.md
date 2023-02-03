@@ -1,1 +1,1 @@
-# backstage-template
+# An example of an external template for a [Backstage.io](https://backstage.io/docs/plugins/) plugin
